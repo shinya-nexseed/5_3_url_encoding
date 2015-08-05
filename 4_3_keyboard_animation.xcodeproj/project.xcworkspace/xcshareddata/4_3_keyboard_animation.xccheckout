@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4653471A-5DEA-44A0-AE55-A1B86CF274D4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>4_3_keyboard_animation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>085C4865474C48DD74BA2069AB58213F79E2FF62</key>
+		<string>https://github.com/shinya-nexseed/4_3_keyboard_animation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>4_3_keyboard_animation.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>085C4865474C48DD74BA2069AB58213F79E2FF62</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shinya-nexseed/4_3_keyboard_animation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>085C4865474C48DD74BA2069AB58213F79E2FF62</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>085C4865474C48DD74BA2069AB58213F79E2FF62</string>
+			<key>IDESourceControlWCCName</key>
+			<string>5_3_url_encoding</string>
+		</dict>
+	</array>
+</dict>
+</plist>
